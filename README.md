@@ -8,7 +8,7 @@ This repository summarizes my learning experience during the internship at Esatt
 - **Duration:** 2 months  
 - **My role:** Fullstack Intern
 - **Team:** 3 interns + mentors
-- **Goal:** To design and implement an internal expense and budget management system for Esatto employees (budget, approvals, notifications).
+- **Goal:** To design and implement an internal expense and budget management system for Esatto employees (budget, approvals, notifications)
 
 <img width="1859" height="739" alt="image" src="https://github.com/user-attachments/assets/5153a9cf-0d30-45db-9310-51e03b5b72e9" />
 
