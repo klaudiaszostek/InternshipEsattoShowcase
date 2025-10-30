@@ -36,7 +36,8 @@ This repository summarizes my learning experience during the internship at Esatt
 - **Testing:** Added unit and integration tests for frontend and backend, ensuring quality and reliability.
 - **Presentation:** Concluded the internship by preparing and presenting the finished project to mentors and the team.
 
-  
+---
+
 ## ⚙️ Key Areas in Our Team
 
 ### 🧠 Frontend (Next.js)
