@@ -38,7 +38,7 @@ This repository summarizes my learning experience during the internship at Esatt
 
 ---
 
-## ⚙️ Key Areas in Our Team
+## ⚙️ Key Areas
 
 ### 🧠 Frontend (Next.js)
 - Implemented app router structure using **Next.js**
