@@ -10,6 +10,9 @@ This repository summarizes my learning experience during the internship at Esatt
 - **Team:** 3 interns + mentors
 - **Goal:** To design and implement an internal expense and budget management system for Esatto employees (budget, approvals, notifications).
 
+<img width="1859" height="739" alt="image" src="https://github.com/user-attachments/assets/5153a9cf-0d30-45db-9310-51e03b5b72e9" />
+
+
 ---
 
 ## 🧩 Tech Stack
@@ -27,7 +30,13 @@ This repository summarizes my learning experience during the internship at Esatt
 
 ---
 
+## 🛠️ Project Workflow
+- **Requirement Analysis:** Project work began with a thorough analysis of requirements, identifying stakeholders and key functionalities.
+- **Development:** Implemented features incrementally in sprints, following team priorities.
+- **Testing:** Added unit and integration tests for frontend and backend, ensuring quality and reliability.
+- **Presentation:** Concluded the internship by preparing and presenting the finished project to mentors and the team.
 
+  
 ## ⚙️ Key Areas in Our Team
 
 ### 🧠 Frontend (Next.js)
