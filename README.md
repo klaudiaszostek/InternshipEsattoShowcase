@@ -31,10 +31,10 @@ This repository summarizes my learning experience during the internship at Esatt
 ---
 
 ## 🛠️ Project Workflow
-- **Requirement Analysis:** Project work began with a thorough analysis of requirements, identifying stakeholders and key functionalities.
-- **Development:** Implemented features incrementally in sprints, following team priorities.
-- **Testing:** Added unit and integration tests for frontend and backend, ensuring quality and reliability.
-- **Presentation:** Concluded the internship by preparing and presenting the finished project to mentors and the team.
+- **Requirement Analysis:** project work began with a thorough analysis of requirements, identifying stakeholders and key functionalities.
+- **Development:** implemented features incrementally in sprints, following team priorities.
+- **Testing:** added unit and integration tests for frontend and backend, ensuring quality and reliability.
+- **Presentation:** concluded the internship by preparing and presenting the finished project to mentors and the team.
 
 ---
 
